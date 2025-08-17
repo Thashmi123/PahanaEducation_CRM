@@ -246,7 +246,7 @@ prefix="c" %>
   <body>
     <div class="container">
       <div class="header">
-        <h1>🧾 Billing System</h1>
+        <h1>💸 Billing System</h1>
         <p>Generate bills and invoices for customers</p>
       </div>
 
