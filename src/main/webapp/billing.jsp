@@ -255,7 +255,7 @@ prefix="c" %>
         <a href="addCustomer">Add Customer</a>
         <a href="displayCustomer">View Customers</a>
         <a href="item">Manage Items</a>
-        <a href="help">Help</a>
+        <a href="help.jsp">Help</a>
         <a href="logout">Logout</a>
       </div>
 
