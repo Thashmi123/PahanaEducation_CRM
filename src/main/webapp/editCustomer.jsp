@@ -49,7 +49,7 @@ prefix="c" %>
       }
 
       .nav-links {
-        background: #f8f9fa;
+        background: #d8eef5;
         padding: 15px 30px;
         border-bottom: 1px solid #e9ecef;
       }
