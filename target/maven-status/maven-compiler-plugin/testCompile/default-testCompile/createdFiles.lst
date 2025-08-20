@@ -1,0 +1,6 @@
+com\pahanaedu\TestSuite.class
+com\pahanaedu\dao\CustomerDAOTest.class
+com\pahanaedu\dao\UserDAOTest.class
+com\pahanaedu\util\DBConnectionTest.class
+com\pahanaedu\dao\ItemDAOTest.class
+com\pahanaedu\servlet\BillingServletTest.class
